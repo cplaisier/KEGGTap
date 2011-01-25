@@ -1,0 +1,24 @@
+##################################################################
+# @Program: KEGGTap.py                                           #
+# @Version: 2                                                    #
+# @Author: Chris Plaisier                                        #
+# @License: Licensed under the Academic Free License version 2.1 #
+# @Sponsored by:                                                 #
+# Paivi Pajukanta Lab, UCLA                                      #
+# University of California Department of Human Genetics          #
+# David Geffen School of Medicine at UCLA                        #
+# Gonda Neuroscience and Genetics Research Center                #
+# 695 Charles E. Young Drive South, Box 708822                   #
+# Los Angeles, CA 90095-7088, USA                                #
+# (310) 794-9802                                                 #
+# @Also Sponsored by:                                            #
+# Genomics Analysis and Interpretation Training Grant            #
+#                                                                #
+# If this program is used in your analysis please mention who    #
+# built it. Thanks. :-)                                          #
+#                                                                #
+# Copyrighted by Chris Plaisier  6/7/2005                        #
+##################################################################
+
+This program can be run from the command line with options. Please use help (-h) to see what they are.
+
